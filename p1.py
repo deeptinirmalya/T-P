@@ -79,7 +79,7 @@ while True:
         print("Invalid choice.")
 
 
-print("helloworld any web")
+print("helloworld main")
 
 # if __name__ == "__main__":
 #     main()
